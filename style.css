@@ -177,6 +177,9 @@ section.wrapper .chat_box .message_body .box span{
     border: 1px solid #ff6e6e;
     height: 100%;
     border-left: 0;
-
+}
+section.wrapper .cancel{
+    background: #ff6e6e;
+    color: #fff;
 }
 
